@@ -139,5 +139,5 @@ int vend_process(int *price) {
                 }
 
                 vend_process(price); // Recursion Call if all other conditions are not met
-
+}
 
